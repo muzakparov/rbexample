@@ -1,0 +1,46 @@
+{
+  "name": "code-sandbox-examples",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@restart/context": "^2.1.4",
+    "@restart/hooks": "^0.3.11",
+    "@types/react": "^16.8.23",
+    "bootstrap": "^4.3.1",
+    "classnames": "^2.2.6",
+    "dom-helpers": "^5.1.2",
+    "invariant": "^2.2.4",
+    "keycode": "^2.2.0",
+    "popper.js": "^1.16.0",
+    "prop-types": "^15.7.2",
+    "prop-types-extra": "^1.1.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-overlays": "^2.1.0",
+    "react-scripts": "3.1.1",
+    "react-transition-group": "^4.0.0",
+    "uncontrollable": "^7.0.0",
+    "warning": "^4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
